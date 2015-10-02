@@ -1,8 +1,14 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
 }
 
+p {
+    font-family: 'Dosis', sans-serif;
+    font-size:16px;
+
+}
 
 .page-header {
     background-color: #ff9400;
